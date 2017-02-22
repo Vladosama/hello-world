@@ -1,4 +1,4 @@
 # hello-world
 my first github project
 
-hello opensource lover
+hello opensource lover, hello opensource developer
